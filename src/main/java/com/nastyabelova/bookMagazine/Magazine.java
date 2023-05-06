@@ -1,4 +1,4 @@
-package com.nastyabelova;
+package com.nastyabelova.bookMagazine;
 
 public class Magazine extends PaperProduct implements ElectronicForm {
 

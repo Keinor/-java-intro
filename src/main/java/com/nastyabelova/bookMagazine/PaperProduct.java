@@ -1,4 +1,4 @@
-package com.nastyabelova;
+package com.nastyabelova.bookMagazine;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
